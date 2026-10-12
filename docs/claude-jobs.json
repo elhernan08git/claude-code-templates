@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-11T09:43:23.366837+00:00",
-  "totalJobs": 91,
+  "lastUpdated": "2026-10-12T10:19:09.883133+00:00",
+  "totalJobs": 89,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -1159,30 +1159,6 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
-      "id": "hn-49291876",
-      "company": "Alaffia Health",
-      "position": "Principal Engineer",
-      "location": "NYC (Hybrid)",
-      "remote": false,
-      "salary": "",
-      "description": "Alaffia Health is a Series B healthtech company in NYC fixing a real, expensive problem: US health plans lose billions every year to improper payments and administrative waste in claims processing. We combine clinicians with AI to catch billing errors before they get paid out. Just raised $55M in...",
-      "applyUrl": "https://news.ycombinator.com/item?id=49291876",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=49291876",
-      "postedAt": "2026-08-13T21:06:43+00:00",
-      "tags": [
-        "React",
-        "TypeScript",
-        "Go",
-        "Node.js",
-        "PostgreSQL",
-        "AWS",
-        "Claude Code",
-        "GraphQL"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "hn-49271778",
       "company": "Odin",
       "position": "Senior Design Engineer",
@@ -1671,28 +1647,6 @@
         "Python",
         "Rust",
         "Go",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5174743008",
-      "company": "Anthropic",
-      "position": "Senior Software Engineer, Full-stack",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "remote": false,
-      "salary": "",
-      "description": "Anthropic’s Product Engineering org is looking for experienced engineers with strong full-stack fundamentals to join one of teams owning our current or emergent products. You'll be a technical leader who thinks holistically about the consumer and/or enterprise end user experience - be that via...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5174743008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5174743008",
-      "postedAt": "2026-04-08T14:58:35-04:00",
-      "tags": [
-        "React",
-        "TypeScript",
-        "Rust",
         "AWS",
         "Claude Code",
         "Anthropic"
